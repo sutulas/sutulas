@@ -1,6 +1,10 @@
+<div align="center">
+
 # Seamus Sutula
 
 Student at Boston College pursuing a BS in Computer Science with minors in Math and Philosophy.
+
+</div>
 
 
 <!--
