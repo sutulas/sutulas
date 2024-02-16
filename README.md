@@ -1,4 +1,7 @@
-### Hi there 👋
+# Seamus Sutula
+
+Student at Boston College pursuing a BS in Computer Science with minors in Math and Philosophy.
+
 
 <!--
 **sutulas/sutulas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
