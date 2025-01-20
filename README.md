@@ -4,6 +4,7 @@
 
 Student at Boston College pursuing a BS in Computer Science with minors in Math and Philosophy.
 
+Take a look at some of my work below!
 </div>
 
 
