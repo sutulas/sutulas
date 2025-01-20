@@ -2,7 +2,7 @@
 
 # Seamus Sutula
 
-Student at Boston College pursuing a BS in Computer Science with minors in Math and Philosophy.
+Student at Boston College pursuing a BS in Computer Science with a minor Philosophy.
 
 Take a look at some of my work below!
 </div>
